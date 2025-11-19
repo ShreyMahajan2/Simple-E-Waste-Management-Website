@@ -5,11 +5,7 @@ Frontend Technologies:
   1. HTML5: Semantic structure and accessibility features
   2. CSS3: Responsive design with Bootstrap 5.1.3 framework
   3. JavaScript: Client-side validation and interactive features
-  4. Bootstrap Components:
-    o Responsive grid system
-    o Modal dialogs for detailed views
-    o Form validation and styling
-    o Navigation components
+  4. Bootstrap Components: Responsive grid system, Modal dialogs for detailed views, Form validation and styling, Navigation components
 
 Backend Technologies:
   1. PHP 7.4+: Server-side logic and business rules implementation
